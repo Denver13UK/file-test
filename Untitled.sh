@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# Clear the screen and add exactly 22 blank lines
+# Clear the screen and add exactly 10 blank lines
 clear
-echo -e "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"  # 22 blank lines
+echo -e "\n\n\n\n\n\n\n\n\n\n\n\n"  # 10 blank lines
 
 # Welcome message
 echo "Welcome to the TFA installer!"
